@@ -20,7 +20,7 @@ I enjoy working on projects that combine software engineering, security analysis
 - Blockchain and smart contract development
 - Permissioned blockchain systems and access control
 - Mobile application development
-- Machine learning and computer vision
+- Machine learning, computer vision and adversarial ML
 - Software architecture and engineering
 
 ---
@@ -61,6 +61,11 @@ Technologies: Solidity, Hardhat, Hyperledger Besu, QBFT, TypeScript, IPFS/Helia,
 iOS application for receipt scanning, automatic OCR-based information extraction and purchase statistics.
 
 Technologies: Swift, SwiftUI, Vision, SwiftData, Swift Charts.
+
+### AIxCS Face Recognition Adversarial Robustness
+Security evaluation of a VGGFace2-based face recognition system against adversarial attacks. The project includes white-box attacks, Security Evaluation Curves, transferability analysis between models, preprocessing defenses and a Laplacian-CNN adversarial detector.
+
+Technologies: Python, PyTorch, Adversarial Robustness Toolbox, facenet-pytorch, VGGFace2, ResNet50, pandas, Matplotlib.
 
 ---
 
