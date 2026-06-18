@@ -4,6 +4,11 @@
   MSc Computer Engineering student | Secure Software | Blockchain | AI | Mobile Development | Cybersecurity
 </p>
 
+<p align="center">
+  <a href="https://github.com/andry800"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andrea-pisaturo-aa5951260"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 ---
 
 I'm a Computer Engineering student at the University of Salerno, currently pursuing my Master's degree.
@@ -56,18 +61,24 @@ Permissioned blockchain prototype for multi-authority document governance, acces
 
 Technologies: Solidity, Hardhat, Hyperledger Besu, QBFT, TypeScript, IPFS/Helia, Express.
 
+🔗 [Repository](https://github.com/andry800/multi-authority-document-governance)
+
 ### PriceAid
 iOS application for receipt scanning, automatic OCR-based information extraction and purchase statistics.
 
 Technologies: Swift, SwiftUI, Vision, SwiftData, Swift Charts.
 
+🔗 [Repository](https://github.com/andry800/PriceAid)
+
 ### Adversarial attacks on Inception Resnet V1 model pretrained on VGGFace2
-Security evaluation of a VGGFace2-based face recognition system against adversarial attacks. The project includes white-box attacks, Security Evaluation Curves, transferability analysis between models, preprocessing defenses and a Laplacian-CNN adversarial detector.
+Security evaluation of a VGGFace2-based face recognition system against white-box adversarial attacks (FGSM, BIM, PGD, DeepFool, CW L2/Linf). The project includes Security Evaluation Curves, transferability analysis between models, preprocessing defenses and a Laplacian-CNN adversarial detector.
 
 Technologies: Python, PyTorch, Adversarial Robustness Toolbox, facenet-pytorch, VGGFace2, ResNet50, pandas, Matplotlib.
+
+🔗 [Repository](https://github.com/andry800/adversarial-face-recognition-security)
 
 ---
 
 ## Contact
 
-You can find me here on GitHub or connect with me on LinkedIn.
+You can find me here on [GitHub](https://github.com/andry800) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrea-pisaturo-aa5951260).
