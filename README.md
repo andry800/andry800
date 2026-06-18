@@ -73,7 +73,7 @@ Technologies: Swift, SwiftUI, Vision, SwiftData, Swift Charts.
 🔗 [Repository](https://github.com/andry800/PriceAid)
 
 ### Adversarial attacks on Inception Resnet V1 model pretrained on VGGFace2
-Security evaluation of a VGGFace2-based face recognition system against white-box adversarial attacks (FGSM, BIM, PGD, DeepFool, CW L2/Linf). The project includes Security Evaluation Curves, transferability analysis between models, preprocessing defenses and a Laplacian-CNN adversarial detector.
+Security evaluation of a VGGFace2-based face recognition system against white-box adversarial attacks (FGSM, BIM, PGD, DeepFool, Carlini-Wagner). The project includes Security Evaluation Curves, transferability analysis between models, preprocessing defenses and a Laplacian-CNN adversarial detector.
 
 Technologies: Python, PyTorch, Adversarial Robustness Toolbox, facenet-pytorch, VGGFace2, ResNet50, pandas, Matplotlib.
 
