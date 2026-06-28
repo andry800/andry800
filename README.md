@@ -13,7 +13,7 @@
 
 I'm a Computer Engineering student at the University of Salerno, currently pursuing my Master's Degree with a specialization in Cybersecurity.
 
-During my academic journey, I developed a strong interest in cybersecurity, applied artificial intelligence, and the design of secure and reliable software systems. I am particularly interested in both offensive and defensive security, with a focus on penetration testing, Active Directory security, vulnerability assessment, network and system security, and application security.
+During my academic journey, I developed a strong interest in cybersecurity, applied artificial intelligence, blockchain technologies and the design of secure and reliable software systems. I am particularly interested in both offensive and defensive security, with a focus on penetration testing, Active Directory security, vulnerability assessment, network and system security, and application security.
 
 I enjoy working on projects that combine software engineering, security analysis, and practical implementation, ranging from smart contracts and decentralized systems to adversarial machine learning, mobile applications, and secure software architectures.
 
