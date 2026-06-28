@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrea 👋</h1>
 
 <p align="center">
-  MSc Computer Engineering student | Secure Software | Blockchain | AI | Mobile Development | Cybersecurity
+  MSc Computer Engineering student | Cybersecurity | Blockchain | Secure Software | AI | Mobile Development
 </p>
 
 <p align="center">
